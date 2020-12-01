@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T09:03:38.352Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.4" etag="-Z8dZ-v9J8uQ14R-2xFo" type="github"><diagram id="t-XWQwakk9dugnXDJbbS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-01T09:04:02.728Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="I8ugUDsogtdFB2RCtZgf" version="13.10.4" type="github">
+  <diagram id="t-XWQwakk9dugnXDJbbS" name="Page-1">
+    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A3sCPK-qfrJhnkktVIXD-2" target="A3sCPK-qfrJhnkktVIXD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-2" value="启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="293" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A3sCPK-qfrJhnkktVIXD-4" target="A3sCPK-qfrJhnkktVIXD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-4" value="接收在线消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A3sCPK-qfrJhnkktVIXD-6" target="A3sCPK-qfrJhnkktVIXD-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-6" value="&lt;span style=&quot;white-space: normal&quot;&gt;接收离线线消息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="690" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A3sCPK-qfrJhnkktVIXD-8" target="A3sCPK-qfrJhnkktVIXD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="490" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3sCPK-qfrJhnkktVIXD-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-10" value="AgooConfig" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="A3sCPK-qfrJhnkktVIXD-17" target="A3sCPK-qfrJhnkktVIXD-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-12" value="APP" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="695" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A3sCPK-qfrJhnkktVIXD-14" target="A3sCPK-qfrJhnkktVIXD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-14" value="线程拦截器" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A3sCPK-qfrJhnkktVIXD-16" target="A3sCPK-qfrJhnkktVIXD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-16" value="ID过滤拦截器&lt;br&gt;（Agoo ID 维度）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="540" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-17" value="自定义拦截器" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="670" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-18" value="AgooPush" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="195" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A3sCPK-qfrJhnkktVIXD-20" target="A3sCPK-qfrJhnkktVIXD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-20" value="无线保镖初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="222.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A3sCPK-qfrJhnkktVIXD-24" target="A3sCPK-qfrJhnkktVIXD-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3sCPK-qfrJhnkktVIXD-24" target="A3sCPK-qfrJhnkktVIXD-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3sCPK-qfrJhnkktVIXD-24" target="A3sCPK-qfrJhnkktVIXD-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-24" value="Accs初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="315" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-25" value="注册主线程接收消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="435" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3sCPK-qfrJhnkktVIXD-27" target="A3sCPK-qfrJhnkktVIXD-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-27" value="绑定Agoo&lt;br&gt;三方库初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="315" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-28" value="三方库启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="395" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-29" value="设置别名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="317.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sCPK-qfrJhnkktVIXD-30" value="设置拦截器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="380" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
